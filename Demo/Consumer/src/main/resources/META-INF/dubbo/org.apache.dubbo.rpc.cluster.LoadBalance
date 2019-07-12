@@ -1,0 +1,2 @@
+myLoadBalance=com.books.dubbo.demo.loadbalance.MyLoadBalance
+myroundrobin=org.apache.dubbo.demo.cluster.MyLoadBalance

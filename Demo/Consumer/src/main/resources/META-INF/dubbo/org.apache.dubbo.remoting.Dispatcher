@@ -1,0 +1,1 @@
+mydispatcher=com.books.dubbo.demo.provider.mydispatcher.MyDispatcher

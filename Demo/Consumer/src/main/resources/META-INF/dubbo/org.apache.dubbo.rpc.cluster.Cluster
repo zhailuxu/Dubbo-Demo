@@ -1,0 +1,2 @@
+myCluster=org.apache.dubbo.demo.cluster.MyCluster
+myBroadcast=com.books.dubbo.demo.broadcast.BroadcastCluster

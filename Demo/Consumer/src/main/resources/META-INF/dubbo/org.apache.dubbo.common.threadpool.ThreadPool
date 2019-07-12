@@ -1,0 +1,1 @@
+mythreadpool=com.books.dubbo.demo.provider.mydispatcher.MyThreadPool
