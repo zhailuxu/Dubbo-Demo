@@ -59,5 +59,6 @@
 - [京东](https://item.jd.com/12769688.html?dist=jd)
 - 淘宝
 
-
+## 0.6 我的网站
+https://zhailuxu.github.io/
 
