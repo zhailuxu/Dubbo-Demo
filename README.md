@@ -62,3 +62,7 @@
 ## 0.6 我的网站
 https://zhailuxu.github.io/
 
+## 0.7 我的公众号
+![image]( https://github.com/zhailuxu/async-program-demo/blob/master/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
+
+
